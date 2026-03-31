@@ -4,15 +4,13 @@
 Digital Literacy and Online Awareness Project
 
 Name
+Sarvana Balaji K
 
-Prateek Kumar Pandey
-
-25BSA10084
+23BOE10002
 
 Course
 
-B.Tech Computer Science Engineering ( cloud computing and automation )
-
+B.Tech in Bioengineering
 Subject
 
 Digital Literacy
